@@ -7,7 +7,7 @@ In this course we intend to introduce **state of the art tools and methods** for
 
 There is a useful tutorial into python http://bokae.web.elte.hu/numerical_methods.html), which gives a wide background knowledge, that comes handy.
 
-During the course every sample code will be shown in **jupyter notebooks**, which can be accessed on the [Kooplex Edu platform](https://k8plex-edu.elte.hu).
+During the course every sample code will be shown in **jupyter notebooks**, which can be accessed on the [K8plex Edu platform](https://k8plex-edu.elte.hu).
 
 Each occasion starts with approximately an hour of introduction into the current topic with examples. After that everyone can work on the assignments and the lecturers will be available to help with the any related problems and questions. 
   
@@ -24,7 +24,7 @@ Attendance on the lectures is not compulsory but it is **highly recommended**, e
 
 
 ### The schedule of the course 
-1,  09.02.2021. **[Introduction to Kooplex Edu](https://kooplex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**<br>
+1,  09.02.2021. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**<br>
 2,  16.02.2021. **[Timeseries analysis](Lectures/L-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-Timeseries)**<br>
 3,  23.02.2021. **[Maps, shapes, coordinates](Lectures/L-Shapes-Maps-Coordinates)** <br>
 4,  02.03.2021. **[Interactive Visualization](Lectures/L-Interactive_Visualization)** <br>
@@ -78,7 +78,7 @@ The assignments/projects will be released in the first couple of weeks, which yo
 ### Where to work on the assignments?
 https://k8plex-edu.elte.hu/hub is where the notebooks will be handed out. It is available for all students with a valid **Neptun** or **caesar** account. Once you run your notebook server you will find a folder with the course material. The notebooks will be available in this Github repository as well.
 We will explain how to use this portal on the first lecture.
-The Kooplex Edu platform is accessible externally as well. In case there is any problem with the portal you can run a notebook server locally on any other computer and upload your work later.
+The K8plex Edu platform is accessible externally as well. In case there is any problem with the portal you can run a notebook server locally on any other computer and upload your work later.
 
 ### Grading
 
