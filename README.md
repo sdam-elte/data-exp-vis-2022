@@ -25,18 +25,18 @@ Attendance on the lectures is not compulsory but it is **highly recommended**, e
 
 ### The schedule of the course 
 1,  09.02.2021. **[Introduction to K8plex Edu](https://k8plex-edu.elte.hu/hub)**, **[Jupyter Notebooks](https://jupyter.org/)**, **Requirements for the course**<br>
-2,  16.02.2021. **[Timeseries analysis](Lectures/L-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-Timeseries)**<br>
-3,  23.02.2021. **[Maps, shapes, coordinates](Lectures/L-Shapes-Maps-Coordinates)** <br>
-4,  02.03.2021. **[Interactive Visualization](Lectures/L-Interactive_Visualization)** <br>
-5,  09.03.2021. **[REST services](Lectures/L-HTTP-REST-API)**  <br>
-6,  16.03.2021. **[SQL queries](Lectures/L-SQL)** <br>
-7,  23.03.2021. **[Datacleaning, and filtering](Lectures/L-Datacleaning-filtering)**<br>
-8,  30.03.2021. **[Network exploration](Lectures/L-Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
-9,  06.04.2021. **[Image exploration](Lectures/L-Image_Exploration)** - This lecture will be given by József Stéger. <br>
-10, 20.04.2021. **[Natural Language Processing on tweets](Lectures/L-NLP)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals. <br>
-11, 27.04.2021. **[Working with large datasets](Lectures/L-LargeData)** <br>
-12, 04.05.2020. **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** <br>
-13, 11.05.2020. **[Visualizing non-scalar data; 3D data](L-3D)**
+2,  16.02.2022. **[Timeseries analysis](Lectures/L-Timeseries/02-Timeseries.pdf)** and **[USGS water discharge statistics](Assignments/A-Timeseries)**<br>
+3,  23.02.2022. **[Maps, shapes, coordinates](Lectures/L-Shapes-Maps-Coordinates)** <br>
+4,  02.03.2022. **[Interactive Visualization](Lectures/L-Interactive_Visualization)** <br>
+5,  09.03.2022. **[REST services](Lectures/L-HTTP-REST-API)**  <br>
+6,  16.03.2022. **[SQL queries](Lectures/L-SQL)** <br>
+7,  23.03.2022. **[Datacleaning, and filtering](Lectures/L-Datacleaning-filtering)**<br>
+8,  30.03.2022. **[Network exploration](Lectures/L-Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
+9,  06.04.2022. **[Image exploration](Lectures/L-Image_Exploration)** - This lecture will be given by József Stéger. <br>
+10, 20.04.2022. **[Natural Language Processing on tweets](Lectures/L-NLP)** - This lecture will be given by **Eszter Bokányi**, whose field of interest is how social phenomena can be captured by using various digital fingerprints of individuals. <br>
+11, 27.04.2022. **[Working with large datasets](Lectures/L-LargeData)** <br>
+12, 04.05.2022. **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)** <br>
+13, 11.05.2022. **[Visualizing non-scalar data; 3D data](L-3D)**
 
 ### Covered topics
 
