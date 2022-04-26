@@ -34,7 +34,7 @@ Attendance on the lectures is not compulsory but it is **highly recommended**, e
 8,  30.03.2022. **[Network exploration](Lectures/L-Networks)** - This lecture will be given by [**Dániel Ábel**](http://maven7.com/hu/daniel-abel/), who is a developer at Maven7. <br>
 9,  06.04.2022. **[Natural Language Processing on tweets](Lectures/L-NLP)** <br>
 10, 20.04.2022. **Consultation only** <br>
-11, 27.04.2022. **[Image exploration](Lectures/L-Image_Exploration)** - This lecture will be given by József Stéger. <br>
+11, 27.04.2022. **[Image exploration](Lectures/L-Image_Exploration)**  <br>
 12, 04.05.2022. **[Working with large datasets](Lectures/L-LargeData)** <br>
 13, 11.05.2022. **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)**
 
