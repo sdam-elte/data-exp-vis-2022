@@ -36,7 +36,7 @@ Attendance on the lectures is not compulsory but it is **highly recommended**, e
 10, 20.04.2022. **Consultation only** <br>
 11, 27.04.2022. **[Image exploration](Lectures/L-Image_Exploration)**  <br>
 12, 04.05.2022. **[Working with large datasets](Lectures/L-LargeData)** <br>
-13, 11.05.2022. **[NoSQL - Elasticsearch and Kibana, GraphQL](Lectures/L-NoSQL-ES)**
+13, 11.05.2022. **Consultation only **
 
 ### Covered topics
 
