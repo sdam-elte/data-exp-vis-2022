@@ -64,7 +64,7 @@ Attendance on the lectures is not compulsory but it is **highly recommended**, e
 5. **[REST API](Assignments/A-HTTP-REST-API)** - (REST service/API) a notebook or a python script - Dávid Visontai
 6. **[Network exploration](Assignments/A-Networks)** - HTML - István Márkusz
 7. **[Data extraction from images](Assignments/A-Image_exploration)** - HTML - József Stéger
-8. **[Natural Language Processing on tweets](Assignments/A-NLP)** - HTML - !!! Ex 7. and 8. is optional. - Eszter Bokányi
+8. **[Natural Language Processing on tweets](Assignments/A-NLP)** - HTML - !!! Ex 7. and 8. is optional. - István Márkusz
 
 All assigments should be converted into HTML unless it is stated otherwise!
 
